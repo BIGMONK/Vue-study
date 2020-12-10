@@ -1,8 +1,8 @@
 <template>
-<div>
-  <div>home</div>
-  <router-link to="/list">列表</router-link>
-</div>
+  <div>
+    <div>home</div>
+    <router-link to="/list">列表</router-link>
+  </div>
 </template>
 
 <script>
